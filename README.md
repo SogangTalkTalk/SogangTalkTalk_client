@@ -1,6 +1,20 @@
-# DRF-PROJECT
-
 # 프로젝트 - 서강대! 내 도도독!
+
+## 기술 스택
+| Category  | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Language  | <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                             |
+| Library   | <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff"/> <img src="https://img.shields.io/badge/Jotai-a8a8a8?logo=jotai&logoColor=fff"/>
+| Bundler   | <img src="https://img.shields.io/badge/webpack-8DD6F9?logo=webpack&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                         |
+| Styling   | <img src="https://img.shields.io/badge/Emotion-D26AC2?logo=emotion&logoColor=fff"/>                                                                                                                                                                                                                                                                                                                      
+| Formatter | <img src="https://img.shields.io/badge/eslint-4B32C3?logo=eslint&logoColor=white"/> <img src="https://img.shields.io/badge/prettier-F7B93E?logo=prettier&logoColor=white"/>                          
+
+<div style={{display:'flex'; gap:"30"}}>
+  <img width="200" src="https://github.com/songess/Togethevery/blob/main/src/assets/image/sgt1.png"/>
+  <img width="200" src="https://github.com/songess/Togethevery/blob/main/src/assets/image/sgt2.png"/>
+  <img width="200" src="https://github.com/songess/Togethevery/blob/main/src/assets/image/sgt3.png"/>
+</div>
+
 
 ## 메신저
 
